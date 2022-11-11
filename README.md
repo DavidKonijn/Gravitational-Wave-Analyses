@@ -1,1 +1,3 @@
 # Gravitational-Wave-Analyses
+
+The goal of the three gravitational wave courses was to perform a high-level gravitational wave analysis on existing LIGO/VIRGO data. As part of these three courses, we have used the `PyCBC` package together with Bayesian statistics to perform a grand parameter inference on gravitational wave signals GW190412, GW190521 and GW150914. A whitening and a constant-Q Transform has been applied to the data which in turn was analysed using a Markov chain Monte Carlo based algorithm. The results of the analyses reaffirmed the results posted by the LIGO/VIRGO collaboration.
